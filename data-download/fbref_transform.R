@@ -140,7 +140,7 @@ write_to_file_if_not_exists(
   force_rewrite_files
 )
 
-# https://footystats.org/japan/j1-league/odds
+# https://footystats.org/japan/j1-league/salaries
 players_with_wages <- c(
   "Adaílton", "Akihiro Ienaga", "Alexander Scholz", "Anderson Lopes",
   "Andrés Iniesta", "Arthur", "Bryan Linssen", "David Moberg Karlsson", "Dawhan",
